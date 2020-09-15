@@ -75,5 +75,6 @@ int WINAPI wWinMain( HINSTANCE hInst,HINSTANCE,LPWSTR pArgs,INT )
 			L"Unhandled Non-STL Exception",MB_OK );
 	}
 	// hehe
+	// soso
 	return 0;
 }
